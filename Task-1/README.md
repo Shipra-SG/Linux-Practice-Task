@@ -71,17 +71,11 @@ drwx------ 2 anita anita 4096 Mar 6 10:00 /var/www/anita
 
 ---
 
-### 5️⃣ Explanation / Notes
+### 5️⃣ Explanation
 
 ```
 - `-u 1173` → Assigns a unique UID to the user
 - `-d /var/www/anita` → Sets the user's home directory to the Apache application path
 - `-m` → Creates the home directory automatically if it does not exist
 - Using a dedicated user for each Apache web application enhances security and isolates application data from other system users.
-```
-
----
-
-```markdown
-![User Verification](./Task-1/linux-task-1.png)
 ```
