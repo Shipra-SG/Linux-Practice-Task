@@ -79,3 +79,6 @@ drwx------ 2 anita anita 4096 Mar 6 10:00 /var/www/anita
 - `-m` → Creates the home directory automatically if it does not exist
 - Using a dedicated user for each Apache web application enhances security and isolates application data from other system users.
 ```
+
+![User & Group Verification](./screenshots/linux-task-1.png)
+![User & Group Verification](./screenshots/linux-task-2.png)
