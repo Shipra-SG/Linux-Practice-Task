@@ -31,16 +31,13 @@ The task is to create a custom Apache user named `anita` on App Server 2 within 
 
 ---
 
-### 4️⃣Steps
-
-````markdown
-## Steps to Create a Custom Apache User
+### 4️⃣Steps to Create a Custom Apache User
 
 1. **Login to App Server 2**
 
-```bash
+```
 ssh steve@stapp02
-````
+```
 
 2. **Create the user with a custom UID and home directory**
 
@@ -72,20 +69,19 @@ Expected output:
 drwx------ 2 anita anita 4096 Mar 6 10:00 /var/www/anita
 ```
 
-````
-
 ---
 
 ### 5️⃣ Explanation / Notes
 
-```markdown
+```
 - `-u 1173` → Assigns a unique UID to the user
 - `-d /var/www/anita` → Sets the user's home directory to the Apache application path
 - `-m` → Creates the home directory automatically if it does not exist
 - Using a dedicated user for each Apache web application enhances security and isolates application data from other system users.
-````
+```
 
 ---
 
 ```markdown
 ![User Verification](./screenshots/linux-task-1) 
+```
