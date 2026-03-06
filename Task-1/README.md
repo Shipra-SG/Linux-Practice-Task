@@ -83,5 +83,5 @@ drwx------ 2 anita anita 4096 Mar 6 10:00 /var/www/anita
 ---
 
 ```markdown
-![User Verification](./screenshots/linux-task-1.png) 
+![User Verification](./linux-task-1.png) 
 ```
