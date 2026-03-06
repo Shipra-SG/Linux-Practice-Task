@@ -114,3 +114,4 @@ These shells are often assigned to accounts used by services like **Apache, MySQ
 ---
 
 ![User Verification](./screenshots/linux-task-3.png)
+![User Verification](./screenshots/linux-task-3-1.png)
