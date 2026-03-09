@@ -90,7 +90,7 @@ The script will display the **server performance report in the terminal**.
 
 ## Script Output
 
-![Server Stats Output](screenshots/output.png)
+![Server Stats Output](screeenshots/output.png)
 
 ---
 
