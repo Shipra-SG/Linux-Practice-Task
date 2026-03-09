@@ -12,7 +12,7 @@ The goal is to **isolate web application data and improve security** on the serv
 * User verification
 
 👉 **View Detailed Steps:**
-[Click here to open the full guide](https://github.com/Shipra-SG/Linux-Practice-Task/tree/main/custom-apache-user)
+[Click here to open the full guide](https://github.com/Shipra-SG/Linux-Practice-Task/blob/main/Task-1/README.md)
 
 ---
 
