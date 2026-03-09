@@ -4,6 +4,13 @@ A **Bash-based monitoring script** that analyzes basic **server performance stat
 
 ---
 
+# Project URL
+```
+https://roadmap.sh/projects/server-stats
+```
+
+---
+
 # Features
 
 The script collects and displays the following system statistics:
