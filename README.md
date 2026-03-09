@@ -54,8 +54,25 @@ The purpose is to **create service/system accounts that cannot log in interactiv
 
 ### Detailed Implementation Guide
 
-[Click here to view full steps]()
+[Click here to view full steps](https://github.com/Shipra-SG/Linux-Practice-Task/blob/main/Task-3/README.md)
 
 ---
 
 # Task-4
+Server Performance Monitoring Script
+
+This task demonstrates a **Bash script to analyze Linux server performance**.
+
+It collects **CPU, memory, and disk usage**, identifies **top resource-consuming processes**, and provides **basic system health metrics**.
+
+**Key Concepts Covered:**
+
+* Linux system monitoring
+* Bash scripting fundamentals
+* Process & resource analysis
+* Quick troubleshooting insights
+
+---
+
+### Detailed Implementation Guide
+[Click here to view full task]()
