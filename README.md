@@ -50,8 +50,6 @@ The purpose is to **create service/system accounts that cannot log in interactiv
 * Assigning non-interactive shells
 * Verification using `cat /etc/passwd` and `id`
 
----
-
 ### Detailed Implementation Guide
 
 [Click here to view full steps](https://github.com/Shipra-SG/Linux-Practice-Task/blob/main/Task-3/README.md)
@@ -72,7 +70,10 @@ It collects **CPU, memory, and disk usage**, identifies **top resource-consuming
 * Process & resource analysis
 * Quick troubleshooting insights
 
----
+# Project URL
+```
+https://roadmap.sh/projects/server-stats
+```
 
 ### Detailed Implementation Guide
 [Click here to view full task](https://github.com/Shipra-SG/Linux-Practice-Task/blob/main/Task-4/README.md)
