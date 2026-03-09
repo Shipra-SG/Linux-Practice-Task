@@ -75,4 +75,4 @@ It collects **CPU, memory, and disk usage**, identifies **top resource-consuming
 ---
 
 ### Detailed Implementation Guide
-[Click here to view full task]()
+[Click here to view full task](https://github.com/Shipra-SG/Linux-Practice-Task/blob/main/Task-4/README.md)
