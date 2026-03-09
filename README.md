@@ -11,7 +11,7 @@ The goal is to **isolate web application data and improve security** on the serv
 * Apache application directory setup
 * User verification
 
-👉 **View Detailed Steps:**
+### Detailed Implementation Guide
 [Click here to open the full guide](https://github.com/Shipra-SG/Linux-Practice-Task/blob/main/Task-1/README.md)
 
 ---
@@ -32,11 +32,8 @@ This helps in **centralized permission management and secure multi-user administ
 * **Group-based permission control**
 * Verification using `id` and `getent`
 
----
-
 ### Detailed Implementation Guide
-
-[Click to open a full guide](https://github.com/Shipra-SG/Linux-Practice-Task/tree/main/group-based-access-management)
+[Click to open a full guide](https://github.com/Shipra-SG/Linux-Practice-Task/blob/main/Task-2/README.md)
 
 ---
 
