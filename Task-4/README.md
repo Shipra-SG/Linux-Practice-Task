@@ -88,7 +88,13 @@ The script will display the **server performance report in the terminal**.
 
 ---
 
-# 🌍 Real-World Use Cases
+## Script Output
+
+![Server Stats Output](screenshots/output.png)
+
+---
+
+# Real-World Use Cases
 
 This script can be used for:
 
