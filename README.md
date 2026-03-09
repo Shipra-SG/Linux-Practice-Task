@@ -37,3 +37,25 @@ This helps in **centralized permission management and secure multi-user administ
 
 ---
 
+# Task-3
+## Create User with Non-Interactive Shell
+
+This task demonstrates how to create a **Linux user with a non-interactive shell (`/sbin/nologin`)** on **App Server 1**.
+
+The purpose is to **create service/system accounts that cannot log in interactively**, which improves security and access control.
+
+**Key Concepts Covered:**
+
+* Linux user creation
+* Assigning non-interactive shells
+* Verification using `cat /etc/passwd` and `id`
+
+---
+
+### Detailed Implementation Guide
+
+[Click here to view full steps]()
+
+---
+
+# Task-4
